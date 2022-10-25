@@ -1,0 +1,50 @@
+Enter number of active cells (1-225): 100
+Initial Alive: 100
+-  O  -  -  O  -  -  -  -  -  O  O  O  -  O  
+-  -  -  -  O  -  -  -  -  -  -  -  O  O  -  
+-  -  O  -  -  -  -  O  O  O  -  O  O  -  -  
+-  O  O  O  O  -  -  O  O  -  -  -  O  -  O  
+O  -  -  -  O  -  O  -  -  O  -  O  O  O  -  
+-  O  O  -  O  O  O  -  -  -  O  -  -  -  -  
+-  -  O  O  -  O  -  O  -  -  -  O  O  O  -  
+O  -  O  -  O  O  -  -  -  O  -  -  O  O  O  
+-  -  O  -  -  -  O  O  O  O  O  O  O  O  O  
+-  O  O  -  -  O  -  -  O  -  -  O  -  -  -  
+-  O  -  O  -  O  -  O  -  O  O  -  O  O  -  
+O  -  -  -  O  -  O  -  O  -  O  -  -  -  O  
+O  -  -  O  -  O  O  -  -  -  O  -  O  O  -  
+O  -  -  O  -  -  -  -  O  -  O  -  -  -  O  
+O  -  -  O  -  O  O  O  -  -  O  O  O  -  -
+Press enter to continue, q to quit. 
+-  -  -  -  -  -  -  -  -  -  -  O  O  -  -  
+-  -  -  -  -  -  -  -  O  O  -  -  -  O  -  
+-  O  -  O  O  -  -  -  -  O  O  O  O  -  -  
+-  O  -  -  O  -  -  O  O  -  -  -  -  -  -  
+-  O  -  -  O  -  O  -  O  O  O  O  O  -  -  
+-  O  -  -  -  -  O  -  O  -  -  -  -  O  -  
+-  -  O  O  -  O  -  O  O  O  O  O  -  -  O  
+-  O  -  -  O  O  -  -  -  -  -  -  -  -  O  
+-  -  O  O  -  -  O  O  O  O  O  O  O  O  O  
+-  O  -  O  -  O  -  -  -  -  -  -  -  -  O  
+-  O  -  O  -  O  -  O  O  -  -  -  -  O  O  
+-  -  O  -  -  -  -  -  O  -  -  -  O  -  O  
+-  -  O  O  O  O  -  -  -  -  -  O  O  -  -  
+-  -  -  -  -  -  -  O  O  O  -  -  -  O  -  
+-  -  -  -  -  -  O  O  -  O  O  O  O  -  -  
+Press enter to continue, q to quit. 
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+-  -  -  -  -  -  -  -  O  O  -  O  -  -  -  
+-  -  -  O  O  -  -  O  -  -  O  O  O  -  -  
+-  -  -  -  O  -  O  -  O  -  -  -  -  -  -  
+-  -  -  -  -  -  O  -  O  -  -  -  -  -  -  
+-  -  -  -  -  O  -  -  -  -  O  O  O  O  -  
+-  -  O  O  -  O  -  -  -  O  -  O  -  -  O  
+-  O  -  -  -  O  -  O  -  -  -  -  -  -  O  
+-  O  -  -  O  -  -  O  O  O  O  O  O  -  O  
+-  O  -  O  -  O  -  -  -  -  O  -  O  -  O  
+-  O  -  O  -  -  -  O  O  O  -  O  -  -  O  
+-  O  -  -  -  -  -  O  -  -  O  -  O  -  -  
+-  -  O  O  O  -  -  O  -  O  -  O  O  O  -  
+-  -  -  O  O  O  -  -  -  O  -  -  -  O  -  
+-  -  -  -  O  -  O  -  -  O  O  O  O  -  -  
+Press enter to continue, q to quit. q

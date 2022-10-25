@@ -1,0 +1,36 @@
+#ifndef _util
+#define _util
+
+#include <iostream>
+#include <vector>
+
+using  namespace std;
+
+// ***NOTE******************************************************************
+// I did not create this file; it was copied from codehs.org 
+// so that I could use some of its functions in my code for The Game of Life
+// *************************************************************************
+
+void Error(string message);
+
+/* Notice that the prompts 
+ * are optional values.
+ */
+string readLine(const string prompt = "?");
+
+int readInt(const string prompt = "?", string reprompt = "");
+int readInt(const int low, const int high, const string prompt = "?", string reprompt = "");
+
+double readDouble(const string prompt = "?", string reprompt = "");
+double readDouble(const double low, const double high, const string prompt = "?", string reprompt = "");
+
+vector<string> splitLine(string input, char delimeter = ' ');
+
+string toUpperCase(string s);
+string toLowerCase(string s);
+
+void setSeed(int seed);
+int randInt();
+int randInt(int min, int max);
+
+#endif
